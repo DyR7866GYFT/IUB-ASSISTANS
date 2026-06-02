@@ -1,0 +1,9 @@
+{
+  "name": "Remix: IUB Assistant - Prototipo",
+  "description": "Un prototipo de aplicación web auto-contenido que demuestra la navegación entre las páginas de Login, Dashboard y Chatbot.",
+  "requestFramePermissions": [],
+  "prompt": "",
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
